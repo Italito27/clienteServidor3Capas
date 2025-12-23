@@ -30,11 +30,6 @@ CREATE TABLE IF NOT EXISTS contratos (
     precio_final REAL NOT NULL,
     FOREIGN KEY (empresa_id) REFERENCES empresas(id) ON DELETE CASCADE,
     FOREIGN KEY (servicio_id) REFERENCES servicios(id) ON DELETE CASCADE
-
---- CAMBIO PARA VER SI MI RAMA FUNCIONA :3 ---
-
-
-
 );
 
 
