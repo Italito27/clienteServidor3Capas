@@ -1,6 +1,6 @@
 # Documentación de Arquitectura
 
-## Arquitectura Cliente-Servidor y 3 Capas
+## Arquitectura Cliente-Servidor y 3 Capas--
 
 Esta aplicación implementa dos estilos arquitectónicos principales:
 
