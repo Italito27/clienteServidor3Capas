@@ -5,3 +5,4 @@ from app.models.contrato import Contrato
 
 
 
+from app.models.empleado import Empleado

@@ -33,6 +33,8 @@ CREATE TABLE IF NOT EXISTS contratos (
 
 --- CAMBIO PARA VER SI MI RAMA FUNCIONA :3 ---
 
+
+
 );
 
 
